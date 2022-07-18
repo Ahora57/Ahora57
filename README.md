@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ahora57&theme=default&show_icons=true"/>
 
-<!--
-**Ahora57/Ahora57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About ME 💬 :
 
-Here are some ideas to get you started:
+### Hello! I'm 17 year old reverse engineer from Russia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - Interests:
+- 🔭driver & kernel mode 
+- 📫reverse engineering
+- 😇security code
+- 💀malware
+
+
