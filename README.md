@@ -9,5 +9,6 @@
 - 📫reverse engineering
 - 😇security code
 - 💀malware
-
-
+  
+[My blog in telegram](https://t.me/ahora_blog)  
+**Discord: Ahora57#4086**  
