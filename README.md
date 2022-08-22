@@ -11,4 +11,5 @@
 - 💀malware
   
 [My blog in telegram](https://t.me/ahora_blog)  
+[My telegram](https://t.me/Ahora_technology)  
 **Discord: Ahora57#4086**  
