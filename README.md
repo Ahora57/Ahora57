@@ -2,7 +2,7 @@
 
 # About ME 💬 :
 
-### Hello! I'm 20 year old reverse engineer from Russia.
+### Hello! I'm 21 year old reverse engineer from Russia.
 
 ### - Interests:
 - 🔭driver & kernel mode 
@@ -12,4 +12,4 @@
   
 [My blog in telegram](https://t.me/ahora_blog)  
 [My telegram](https://t.me/Ahora_technology)  
-**Discord: Ahora57#3326**  
+**Discord: ahora57**  
